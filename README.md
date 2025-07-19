@@ -50,7 +50,7 @@ Used multiple classification metrics to evaluate model performance:
 
 I built an interactive web app using **Streamlit** that allows users to input customer features and receive a churn prediction in real-time.
 
-> To run the app locally:
+To run the app locally:
 Open Terminal and type the following
 cd streamlit_app(path to the app.py file)
 streamlit run app.py
