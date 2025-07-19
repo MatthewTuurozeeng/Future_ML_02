@@ -51,8 +51,8 @@ Used multiple classification metrics to evaluate model performance:
 I built an interactive web app using **Streamlit** that allows users to input customer features and receive a churn prediction in real-time.
 
 > To run the app locally:
-```bash
-cd streamlit_app
+Open Terminal and type the following
+cd streamlit_app(path to the app.py file)
 streamlit run app.py
 
 ## Project Screenshots
@@ -66,9 +66,8 @@ Visual insights into churn drivers and customer segmentation.
 Real-time churn prediction based on customer inputs.
 ![Streamlit App](Churn_Prediction_System/images/streamlit_app.png)
 
----
 
-### 🔍 Feature importance 
+### Feature importance 
 Top features influencing customer churn.
 ![Feature Importance](Churn_Prediction_System/images/feature_importance.png)
 
